@@ -1,20 +1,3 @@
-```
-         ▀██▀▀▀▀▀▀█▌
-         ▀█▓▓▒▒▓▐████▀▀██▄
-         ▄█▓▓▓▓▓▐████████▓▀█▄
-       ▄███▓▓▓▓▓▐███████████▒█▄
-      ██▓██▓▓▓▓▓▐████████████▓██
-     ▐█▓███▓▓▓▓▓▐█████████████▓█▌
-     █▓████▓▓▓▓▓▓█▓▓▓▓███▓█████▓█
-     █▓████▓▓▓▓▓▓█▓▓▓▓▓▓▓▓▓████▓█
-     ██▓███▓▓▓▓▓▓█▓▓▓▓▓▓▓▓▓▓▓██▓█
-      █████▓▓▓▓▓▓█▓▓▓▓▓▓▓▓▓▓██▓█
-       ████▓▓▓▓▓▓█▒▒▓▓▓▓▓▓█████▀
-        ▀██▓▓▓▓▓▒▀▀▀▀▀▀▀▀▀▀▀▀██▀
-        █▀▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓██
-       ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-```
-
 # League of Legends AI Match Analyzer
 
 This project is an AI-powered match analysis tool for League of Legends (LoL) players, leveraging Node.js and TypeScript, along with Fastify and Langchain. It provides detailed insights into player performance and helps identify areas of improvement to take your gameplay to the next level.
